@@ -110,7 +110,7 @@ During the internship, I gained and demonstrated several skills and competencies
 
 ### Evidence
 
-- Demonstrated working applications in this [YouTube video]() and [GitHub repository]().
+- Demonstrated working applications in this [YouTube video]() and [GitHub repository](https://github.com/sameetpatil5/nullclass-data-science-projects.git).
 - Made proper documentation of the all the projects.
 - Submitted all deliverables, including source code, trained models, and documentation.
 - Screenshots of the projects:
