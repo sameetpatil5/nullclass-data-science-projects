@@ -72,14 +72,12 @@
 - Fine-tuned a sentiment model using a [`public dataset`](https://www.kaggle.com/datasets/nursyahrina/chat-sentiment-dataset) and Google Generative AI APIs Fine-tuning.
 - Integrated sentiment classification into chatbot interactions.
 - Key Deliverables:
-  - Fine-tunning model python scripts: (`tuned_model.py`).
+  - Fine-tunning model python scripts: (`tuned_model.py`/ `tuned_model.ipynb`).
   - Streamlit-based Sentiment-aware chatbot interface (`app.py`).
 
 ---
 
 ## Skills and Competencies
-
-During the internship, I gained and demonstrated several skills and competencies:
 
 1. **Technical Skills**:
    - Proficiency in Python programming.
@@ -95,6 +93,7 @@ During the internship, I gained and demonstrated several skills and competencies
    - Proper implementation of Generative AI APIs and Python libraries for the same.
    - Independently solving problems and developing projects with a focus on high scope and accuracy.
 
+<div style="page-break-after: always;"></div>
 ---
 
 ## Feedback and Evidence
@@ -114,6 +113,13 @@ During the internship, I gained and demonstrated several skills and competencies
 - Made proper documentation of the all the projects.
 - Submitted all deliverables, including source code, trained models, and documentation.
 - Screenshots of the projects:
+
+| Project                         | Screenshots                                                                                                                                                                                                                                                                   |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Text Summarization              | <img src="./assets/screenshots/t1_1.png" width="200">                                                                                                                                                                                                                         |
+| Multi-Modal Chatbot             | <img src="./assets/screenshots/t2_1.png" width="200"> <img src="./assets/screenshots/t2_2.png" width="200"> <img src="./assets/screenshots/t2_3.png" width="200"> <img src="./assets/screenshots/t2_4.png" width="200"> <img src="./assets/screenshots/t2_5.png" width="200"> |
+| Sentimental Multi-Modal Chatbot | <img src="./assets/screenshots/t3_1.png" width="200"> <img src="./assets/screenshots/t3_2.png" width="200"> <img src="./assets/screenshots/t3_3.png" width="200"> <img src="./assets/screenshots/t3_4.png" width="200">                                                       |
+
 
 ---
 
@@ -150,6 +156,7 @@ During the internship, I gained and demonstrated several skills and competencies
    - <p align="justify"> This challenge was solved by watching tutorials and reading documentation to learn how to store and retrieve information in Streamlit.
    - <p align="justify"> This improved my understanding of Streamlit and its capabilities which in turn allowed me to implement the chatbot with the desired functionality.
 
+<div style="page-break-after: always;"></div>
 ---
 
 ## Outcomes and Impact
