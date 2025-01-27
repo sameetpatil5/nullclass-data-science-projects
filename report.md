@@ -4,8 +4,8 @@
 
 - Name: **Sameet Patil**
 - Email: <sameetpatil5@gmail.com>
-- Internship Duration: _2^nd^ January, 2025_ to _2^nd^ February, 2025_
-- Submission Date: _26^th^ January, 2025_
+- Internship Duration: _2<sup>nd</sup> January, 2025_ to _2<sup>nd</sup> February, 2025_
+- Submission Date: _27<sup>th</sup> January, 2025_
 - Training Program Offer Letter: [NullClass Data Science Training Offer Letter](./assets/sameetpatil_nullclass_datascience_training_ol_signed.pdf)
 - Training Program Certification: [NullClass Data Science Training Certificate](./assets/sameetpatil_nullclass_datascience_training_certificate.pdf)
 - Internship Offer Letter: [NullClass Internship Offer Letter](./assets/sameetpatil_nullclass_datascience_intern_ol_signed.pdf)
@@ -14,7 +14,7 @@
 
 ## Introduction
 
-<p align="justify"> This report is prepared to documents my internship experience at **NullClass**, highlighting the tasks undertaken, skills developed, and outcomes achieved during the internship. The projects assigned allowed me to explore advanced AI concepts, including natural language processing, sentiment analysis, and multi-modal AI integration, aligning with my learning objectives and career aspirations.
+<p align="justify"> This report is prepared to documents my internship experience at <strong>NullClass</strong>, highlighting the tasks undertaken, skills developed, and outcomes achieved during the internship. The projects assigned allowed me to explore advanced AI concepts, including natural language processing, sentiment analysis, and multi-modal AI integration, aligning with my learning objectives and career aspirations.
 
 ---
 
@@ -24,9 +24,9 @@
 
 ### Projects
 
-1. **Task 1: _Text Summarization_**: <p align="justify"> Implement an extractive summarization technique using NLP to condense lengthy texts while retaining essential information.
-2. **Task 2: _Multi-Modal Chatbot_**: <p align="justify"> A chatbot capable of text and image generation with contextual understanding.
-3. **Task 3: _Sentimental Multi-Modal Chatbot_**: <p align="justify"> An advanced version of the multi-modal chatbot integrated with sentiment analysis for enhanced interaction.
+1. **Task 1: _Text Summarization_**: [Link](./task1_text_summarizer/) <p align="justify"> Implement an extractive summarization technique using NLP to condense lengthy texts while retaining essential information.
+2. **Task 2: _Multi-Modal Chatbot_**: [Link](./task2_multi_modal_chatbot/) <p align="justify"> A chatbot capable of text and image generation with contextual understanding.
+3. **Task 3: _Sentimental Multi-Modal Chatbot_**: [Link](./task3_sentimental_chatbot/) <p align="justify"> An advanced version of the multi-modal chatbot integrated with sentiment analysis for enhanced interaction.
 
 ### Role
 
@@ -93,7 +93,6 @@
    - Proper implementation of Generative AI APIs and Python libraries for the same.
    - Independently solving problems and developing projects with a focus on high scope and accuracy.
 
-<div style="page-break-after: always;"></div>
 ---
 
 ## Feedback and Evidence
@@ -109,7 +108,7 @@
 
 ### Evidence
 
-- Demonstrated working applications in this [YouTube video]() and [GitHub repository](https://github.com/sameetpatil5/nullclass-data-science-projects.git).
+- Demonstrated working applications in this [YouTube video](https://youtu.be/FugsUMIJh5E) and [GitHub repository](https://github.com/sameetpatil5/nullclass-data-science-projects.git).
 - Made proper documentation of the all the projects.
 - Submitted all deliverables, including source code, trained models, and documentation.
 - Screenshots of the projects:
@@ -119,7 +118,6 @@
 | Text Summarization              | <img src="./assets/screenshots/t1_1.png" width="200">                                                                                                                                                                                                                         |
 | Multi-Modal Chatbot             | <img src="./assets/screenshots/t2_1.png" width="200"> <img src="./assets/screenshots/t2_2.png" width="200"> <img src="./assets/screenshots/t2_3.png" width="200"> <img src="./assets/screenshots/t2_4.png" width="200"> <img src="./assets/screenshots/t2_5.png" width="200"> |
 | Sentimental Multi-Modal Chatbot | <img src="./assets/screenshots/t3_1.png" width="200"> <img src="./assets/screenshots/t3_2.png" width="200"> <img src="./assets/screenshots/t3_3.png" width="200"> <img src="./assets/screenshots/t3_4.png" width="200">                                                       |
-
 
 ---
 
@@ -156,7 +154,6 @@
    - <p align="justify"> This challenge was solved by watching tutorials and reading documentation to learn how to store and retrieve information in Streamlit.
    - <p align="justify"> This improved my understanding of Streamlit and its capabilities which in turn allowed me to implement the chatbot with the desired functionality.
 
-<div style="page-break-after: always;"></div>
 ---
 
 ## Outcomes and Impact
