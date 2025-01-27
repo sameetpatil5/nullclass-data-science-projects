@@ -88,10 +88,10 @@ This repository contains the submission of tasks assigned during my internship a
 
     1. Create a virtual environment:
 
-      ```bash
-      python -m venv .venv
-      .venv\Scripts\activate
-      ```
+       ```bash
+       python -m venv .venv
+       .venv\Scripts\activate
+       ```
 
     2. Install dependencies using `pip install -r requirements.txt`.
     3. Set up environment variables in a `.env` file.
